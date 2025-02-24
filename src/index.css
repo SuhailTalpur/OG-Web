@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+.inter {
+    font-family: "Inter", serif;
+  }
+.righteous {
+    font-family: "Righteous", serif;
+    font-weight: 50;
+    font-style: normal;
+  }
+  .red-hat {
+    font-family: "Red Hat Display", serif;
+  }
