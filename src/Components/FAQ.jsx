@@ -29,7 +29,7 @@ export default function FAQ() {
 
   return (
     <section className="py-16 px-6 md:px-16 lg:px-24">
-      <h2 className="text-5xl text-orange-500 md:text-6xl font-extrabold text-center mb-10">FAQ</h2>
+      <h2 className="text-5xl text-text md:text-6xl font-extrabold text-center mb-10">FAQ</h2>
 
       <div className="max-w-2xl mx-auto p-6 rounded-lg shadow-lg">
         {faqs.map((faq, index) => (
@@ -46,7 +46,7 @@ export default function FAQ() {
                 openIndex === index ? "max-h-40 opacity-100 py-2" : "max-h-0 opacity-0"
               }`}
             >
-              <p className="text-gray-400">{faq.answer}</p>
+              <p className="text-white">{faq.answer}</p>
             </div>
           </div>
         ))}

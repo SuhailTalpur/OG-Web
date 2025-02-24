@@ -6,19 +6,19 @@ export default function CommunityImportance() {
       <div className="max-w-7xl mx-auto flex flex-col-reverse md:flex-row items-center gap-8 md:gap-12">
         {/* Text Section */}
         <div className="w-full md:w-1/2 text-center md:text-left">
-          <p className="text-sm text-orange-500 font-semibold">
+          <p className="text-sm text-text font-semibold">
             CULTURE AND POST MINT
           </p>
           <h2 className="text-3xl sm:text-4xl md:text-5xl font-extrabold leading-snug mt-3">
             The Importance of Culture, Community, and Innovation in OrangutanX
           </h2>
-          <p className="text-gray-400 mt-4 text-base sm:text-lg">
+          <p className="text-white mt-4 text-base sm:text-lg">
             Culture – The foundation of identity and belonging. It shapes our values, vision, and the unique experience we create in the Web3 space.
           </p>
-          <p className="text-gray-400 mt-2 text-base sm:text-lg">
+          <p className="text-white mt-2 text-base sm:text-lg">
             Community – The heartbeat of OrangutanX. A strong, united community drives growth, trust, and long-term sustainability. Together, we build, support, and win.
           </p>
-          <p className="text-gray-400 mt-2 text-base sm:text-lg">
+          <p className="text-white mt-2 text-base sm:text-lg">
             Innovation – The key to progress. We embrace cutting-edge blockchain technology to provide fair, transparent, and rewarding experiences for everyone.
           </p>
         </div>

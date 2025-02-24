@@ -18,7 +18,7 @@ export default function AboutDegenAlpha() {
           <div className="w-full lg:w-1/2">
             <h2 className="text-4xl sm:text-5xl font-bold mb-4 righteous">About Orangutanx</h2>
             
-            <p className="text-orange-500 text-sm sm:text-base font-semibold uppercase tracking-wide">
+            <p className="text-text text-sm sm:text-base font-semibold uppercase tracking-wide">
             Your Vision, Our Strategy
             </p>
             
@@ -26,7 +26,7 @@ export default function AboutDegenAlpha() {
             Turning your imagination into impact
             </h3>
             
-            <p className="text-gray-400 text-sm sm:text-base">
+            <p className="text-white text-sm sm:text-base">
             OrangutanX is more than a project—it’s a movement built on culture, community, and unity, powered by innovation on Solana. We believe in bringing people together through trust, transparency, and decentralized technology.
 
 With NFT-driven experiences, automated rewards, and engaging utilities like SpinLoot, Trait Shop, and Jackpot, OrangutanX is redefining blockchain-powered entertainment.

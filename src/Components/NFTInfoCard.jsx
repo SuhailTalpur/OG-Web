@@ -6,20 +6,20 @@ export default function NFTInfoCard() {
           
           {/* Left Section */}
           <div>
-            <h2 className="text-6xl sm:text-7xl font-bold text-orange-500">333</h2>
-            <p className="text-gray-400 text-sm sm:text-base">Degen Alpha's supply</p>
+            <h2 className="text-6xl sm:text-7xl font-bold text-text">333</h2>
+            <p className="text-white text-sm sm:text-base">OG supply</p>
           </div>
   
           {/* Center Section */}
           <div>
-            <h2 className="text-6xl sm:text-7xl font-bold text-orange-500">Free</h2>
-            <p className="text-gray-400 text-sm sm:text-base">price</p>
+            <h2 className="text-6xl sm:text-7xl font-bold text-text">Free</h2>
+            <p className="text-white text-sm sm:text-base">price</p>
           </div>
   
           {/* Right Section */}
           <div>
-            <h2 className="text-6xl sm:text-7xl font-bold text-orange-500">Solana</h2>
-            <p className="text-gray-400 text-sm sm:text-base">chain</p>
+            <h2 className="text-6xl sm:text-7xl font-bold text-text">Solana</h2>
+            <p className="text-white text-sm sm:text-base">chain</p>
           </div>
         </div>
   

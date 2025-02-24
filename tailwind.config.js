@@ -8,11 +8,8 @@ export default {
 
     extend: {
       colors: {
-        'myblue': '#d09f90',
-        'mypink': '#fff4c7',
-        'mypink2': '#f0631c',
-        'mybtnbg': '#d09f90',
-        'mybg': '#ff914d',
+        'bgcolor': '#ff8644',
+        'textcolor': '#f34512',
       },
       
     },
