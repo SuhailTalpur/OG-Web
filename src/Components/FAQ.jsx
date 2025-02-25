@@ -35,7 +35,7 @@ export default function FAQ() {
         {faqs.map((faq, index) => (
           <div key={index} className="border-b border-gray-700 last:border-none">
             <button
-              className="w-full text-left py-4 flex justify-between items-center text-lg font-semibold"
+              className="w-full text-left py-4 flex justify-between items-center text-lg font-semibold text-text"
               onClick={() => toggleFAQ(index)}
             >
               {faq.question}
@@ -46,7 +46,7 @@ export default function FAQ() {
                 openIndex === index ? "max-h-40 opacity-100 py-2" : "max-h-0 opacity-0"
               }`}
             >
-              <p className="text-white">{faq.answer}</p>
+              <p className="text-">{faq.answer}</p>
             </div>
           </div>
         ))}

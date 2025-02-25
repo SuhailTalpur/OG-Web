@@ -30,7 +30,7 @@ const Header = () => {
                     <h1 className="text-4xl md:text-6xl font-bold text-text righteous font-outline-2">
                         OrangutanX
                     </h1>
-                    <p className="text-lg md:text-2xl text-white">
+                    <p className="text-lg md:text-2xl text-">
                         Culture, Community, Utility, and Innovation on Solana
                     </p>
                 </div>

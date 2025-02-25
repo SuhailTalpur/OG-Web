@@ -5,7 +5,7 @@ export default function Footer() {
     <footer className="py-12 px-6 md:px-16 lg:px-24 relative text-center">
       <div className="flex flex-col items-center justify-center space-y-4">
         <h2 className="text-2xl md:text-3xl font-extrabold text-text font-outline-2 righteous">ORANGUTANX</h2>
-        <p className="text-white text-lg md:text-xl ">
+        <p className="text-text text-lg md:text-xl ">
           A Community driven project
         </p>
         <div className="flex space-x-6 text-xl">

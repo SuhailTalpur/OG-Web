@@ -11,7 +11,7 @@ export default function Timeline() {
         percentage: "95%",
       },
       {
-        title: "OrangutanX Token Campaign, Airdrop & NFT Apply",
+        title: "OrangutanX Token Campaign, Airdrop & Token launch",
         description: "Launch the OrangutanX token campaign Airdrop application goes live Orangutan NFT Apply Website goes live Token Launch: Officially launch the OrangutanX token",
         percentage: "80%",
       },
@@ -24,7 +24,7 @@ export default function Timeline() {
   
     return (
       <section className="py-16 px-6 md:px-16 lg:px-24">
-        <h2 className="righteous text-5xl md:text-5xl font-extrabold text-center mb-12 text-white">
+        <h2 className="righteous text-5xl md:text-5xl font-extrabold text-center mb-12 text-text">
           Orangutan Roadmap
         </h2>
         <div className="relative border-l-4 border-text mx-auto max-w-4xl">
